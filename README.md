@@ -1,4 +1,4 @@
-# Genome Sequence Classification Assignment
+# Genome Sequence Classification 
 
 ## Problem Statement
 
