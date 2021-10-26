@@ -12,14 +12,13 @@ Learn the structure and perform this binary classification on test data.
 
 ## Approach
 
-```
-Since we are dealing with DNA sequences, we use the library Pysster that has been specifically written
+- Since we are dealing with DNA sequences, we use the library Pysster that has been specifically written
 for biological data.
-Each of A, T, G, C is treated as a one-hot vector. Therefore every sequence is represented as a bit
+- Each of A, T, G, C is treated as a one-hot vector. Therefore every sequence is represented as a bit
 matrix.
-This is convenient while taking the dot product with the kernel, which is also a one-hot vector.
-The Pysster paper: [Paper](https://pubmed.ncbi.nlm.nih.gov/29659719/)
-```
+- This is convenient while taking the dot product with the kernel, which is also a one-hot vector.
+- The Pysster paper: [Paper](https://pubmed.ncbi.nlm.nih.gov/29659719/)
+
 ## Implementation Details
 
 ### Preprocessing
