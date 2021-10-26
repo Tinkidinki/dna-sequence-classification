@@ -4,6 +4,7 @@
 
 Training data has been provided in which DNA sequences have been classified based on whether an
 unknown motif X occurs repeatedly in a certain region or not. As shown below, the positive class contains sequences where the unknown motif instances occur together at a specific (unknown) region, and the negative class contains the motif-instances occuring in a spread out manner
+
 ![image](https://user-images.githubusercontent.com/26631482/138933589-fa8f7a94-30a8-4e4e-95f2-d59c4b459c24.png)
 
 
