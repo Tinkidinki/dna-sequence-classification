@@ -163,7 +163,9 @@ from sklearn.metrics import accuracy_score
 ```
 accuracy_score(labels[:, 1 ], predictions[:, 1 ])
 ```
-#### 0.9891666666666666
+```
+0.9891666666666666
+```
 
 ### Accuracy: 0.9891
 
@@ -205,7 +207,7 @@ class_1 0.989 0.990 0.990 0.989 0.983 | 621
 ```
 weighted avg 0.989 0.989 0.989 0.989 0.983 |
 ```
-### F1 Score: 0.
+### F1 Score: 0.989
 
 ### Visualisation and Interpretation
 
